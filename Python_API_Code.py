@@ -1,5 +1,3 @@
-# first, 'pip install requests' via terminal
-
 # from python console
 import requests
 
